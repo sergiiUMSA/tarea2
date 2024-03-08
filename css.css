@@ -1,0 +1,42 @@
+.principal
+{
+    background-color: gold;
+    /* width: 600px; */
+    /* height: 900px;  */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja
+{
+    
+    background-color: lightblue;
+    width: 32%;
+    height: 900px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+.caja1{
+    background-color: rgb(129, 129, 129);
+    /* width: 300px; */
+   height: 135px;
+    margin: 13px;
+    text-align: center;
+    font-size: 50px;
+}
+.caja2 {
+    background-color: rgb(114, 197, 114);
+    margin: 12px;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+       
+}
+.contenedor{
+        display: flex;
+        flex-direction: row;
+        
+        }
